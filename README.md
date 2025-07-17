@@ -1,5 +1,8 @@
-<h1 align="center">Conversations</h1>
+<h1 align="center">Conversations.I2P.hypnfork</h1>
 
+XMPP client for Android and I2P.
+
+<!--
 <p align="center">Conversations: the very last word in instant messaging</p>
 
 <p align="center">
@@ -10,6 +13,7 @@
     <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
   </a>
 </p>
+-->
 
 ![screenshots](https://codeberg.org/iNPUTmice/Conversations/raw/branch/master/screenshots.png)
 
